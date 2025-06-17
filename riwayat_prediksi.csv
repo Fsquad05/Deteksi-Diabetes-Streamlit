@@ -1,0 +1,7 @@
+Tanggal Pemeriksaan,ID Pasien,Nama Pasien,Jenis Kelamin,Usia,BMI,HbA1c,Urea,Cr,Kolesterol,TG,HDL,LDL,VLDL,Status,Nama Pemeriksa,Jabatan
+2025-06-15,343fd,df,Laki-laki,30,1.0,2.0,2.0,5.0,8.0,8.0,9.0,7.0,7.0,Normal,brando,dokter
+2025-06-15,546,draco,Perempuan,25,56.0,43.0,53.0,53.0,23.0,7.0,20.0,12.0,31.0,Normal,dragon,dokter bedah
+2025-06-15,065122151,M Daffa,Laki-laki,21,82.0,6.0,4.0,5.0,5.0,4.0,5.0,5.0,4.0,Normal,Naruto,
+2025-06-15,456,Daus,Laki-laki,23,50.0,1.0,2.0,3.0,4.0,5.0,5.0,6.0,7.0,Normal,Daffa,
+2025-06-15,aa456,adaw,Perempuan,50,32.0,12.0,23.0,12.0,23.0,15.0,53.0,45.0,23.0,Diabetic,rikardo,
+2025-06-15,45Ab,Rifqi,Laki-laki,24,80.0,53.0,15.0,53.0,25.0,34.0,35.0,15.0,43.0,Diabetic,Daffa,
